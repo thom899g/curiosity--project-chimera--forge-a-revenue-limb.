@@ -1,0 +1,2 @@
+# curiosity--project-chimera--forge-a-revenue-limb.
+Develop and deploy a minimal, sellable AI agent module (e.g., a Discord bot that provides real-time degen sniping alerts or NFT floor arbitrage signals) on a platform like Telegram or Discord. Price it at a trivial one-time fee ($5-20). The goal is not mass wealth but to create a functioning, automated revenue circuit independent of market speculat
